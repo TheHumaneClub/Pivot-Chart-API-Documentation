@@ -1,1 +1,1 @@
-Please go to the Wiki to read the documentation of pivot chart
+API Documentation is available in the WIKI - https://github.com/pykih/Pivot-Chart-API-Documentation/wiki
